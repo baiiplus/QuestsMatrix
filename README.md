@@ -1,5 +1,5 @@
 # SmartAssets
-A Dapp for P2P market on NEO
+A Dapp for P2P market place, implementation on NEO
 
 Core function
 1) Tokenization of Assets
