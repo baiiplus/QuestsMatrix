@@ -1,14 +1,14 @@
 # WorldQuests / QuestsWorld / QuestPlanet / QuestsUniverse / QuestsForReward
 
-QuestWorld is a Reward-for-Achievement Peer-to-Peer community-owned platfrom. 
+"QuestWorld" is a Peer-to-Peer Reward-for-Achievement platfrom. 
 
-Vision - An evolving platform to provide efficient and effective exchange of human efforts/innovation/achievements for rewards to aid the advance of the human race. 
+Vision - An platform to provide efficient and effective exchange of human efforts/innovation/achievements for real rewards to aid the advance of the human race.
 
-In its simplest form
-  There are 
-  4 main roles: QuestMaster, Achiever, GrantCouncil, Jury
-  2 minor roles: Plaintiff, Defendant
-There are 5 main category of items: QuestToken, Quest, Reward, Conditions, Evidence, Decision Time
+In its simplest form, there are 
+  Main roles: QuestMaster, Achiever, GrantCouncil
+  Minor roles: Plaintiff, Defendant, Jury
+  Main items: QuestToken, Quest, Reward, Conditions, Evidence, GrantDecision
+  Minor items: SueFee, CourtCase, CourtCaseDecision
 
 01) QuestMaster post a Quest with a Reward and measurable Conditions such as deadline and specifications. 
 02) QuestMaster assign a GrantCouncil for Decision to Accept/Reject an application.
@@ -44,4 +44,6 @@ allow quests to be posted with a rewards, when other fullfill the quest, evidenc
 A platform for a quest to be posted with a token, implementation on NEO, with plug-ins for extending functions.
 Core function
 
-
+Technicals:
+Blockchain - NEO
+IPFS
