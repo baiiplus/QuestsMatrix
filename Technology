@@ -1,2 +1,13 @@
-Blockchain - NEO
-IPFS
+Blockchain
+  To run the platfrom
+  
+Mobile Device
+  To run the user interface
+
+IFPS
+  To store and content addressed all evidence collected
+  
+Digital Evidence Collector
+  Since video or photo can be edited to give false evidence
+  A module is self developed to reduce possibility of fraud or tempered evidence.
+  e.g. video or photo taken directly, that cannot be edited from a mobile device.
