@@ -1,5 +1,6 @@
-# WorldQuests / QuestsWorld / QuestPlanet / QuestsUniverse / QuestsForReward
+# QuestMatrix 
+(or WorldQuests / QuestsWorld / QuestPlanet / QuestsUniverse )
 
-"QuestWorld" is a Peer-to-Peer Reward-for-Achievement platfrom. 
+"QuestMatrix" is a Peer-to-Peer Reward-for-Achievement platfrom. 
 
 Vision - An platform to provide efficient and effective exchange of human efforts/innovation/achievements for real rewards to aid the advance of the human race.
