@@ -1,12 +1,14 @@
-# WorldQuests 
+# WorldQuests / QuestsMarket
 
-QuestsMarket is a reward-for-achievement peer-to-peer community-owned platfrom. 
+WorldQuests is a reward-for-achievement peer-to-peer community-owned platfrom. 
 
-Vision - develop a platform provide exchange of human efforts/innovation/achievements.
+Vision - Develop a never-ending platform provide efficient exchange of human efforts/innovation/achievements for rewards to increase total values for the entire human race.
 
 In its simplest form
 
 There are 4 main roles, QuestMaster, Achiever, GrantCouncil, Jury. Generally speaking, a account can play mutiple roles simultaneously if there is no conflict of interest for a Quest.
+
+Key items in WorldQuests, Quest, 
 
 01) QuestMaster post a Quest with a Reward and measurable Conditions such as deadline and specifications. 
 02) QuestMaster assign a GrantCouncil to Accept/Reject an application.
