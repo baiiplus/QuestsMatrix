@@ -1,8 +1,8 @@
-# WorldQuests / QuestsMarket
+# WorldQuests / QuestsWorld / QuestPlanet / QuestsUniverse / QuestsForReward
 
 QuestWorld is a Reward-for-Achievement Peer-to-Peer community-owned platfrom. 
 
-Vision - Develop an evolving platform to provide efficient and effective exchange of human efforts/innovation/achievements for rewards to aid the advance of the human race. 
+Vision - An evolving platform to provide efficient and effective exchange of human efforts/innovation/achievements for rewards to aid the advance of the human race. 
 
 In its simplest form
   There are 
