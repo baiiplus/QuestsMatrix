@@ -1,0 +1,5 @@
+In the simplest form, there are 
+  Main roles: QuestMaster, Achiever, GrantCouncil
+  Minor roles: Plaintiff, Defendant, Jury
+  Main items: QuestToken, Quest, Reward, Conditions, Evidence, GrantDecision
+  Minor items: SueFee, CourtCase, CourtCaseDecision
