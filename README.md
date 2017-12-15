@@ -1,25 +1,27 @@
 # WorldQuests 
 
-WorldQuests is a reward-for-achievement peer-to-peer community-owned platfrom
+QuestsMarket is a reward-for-achievement peer-to-peer community-owned platfrom. 
+
+Vision - develop a platform provide exchange of human efforts/innovation/achievements.
 
 In its simplest form
 
-There are 3 main roles, QuestMaster, Achiever, and GrantCouncil, generally speaking a account can play these 3 roles simultaneously
+There are 4 main roles, QuestMaster, Achiever, GrantCouncil, Jury. Generally speaking, a account can play mutiple roles simultaneously if there is no conflict of interest for a Quest.
 
-01) QuestMaster can post a quest with a reward and measurable conditions such as deadline and specifications.
+01) QuestMaster post a Quest with a Reward and measurable Conditions such as deadline and specifications. 
+02) QuestMaster assign a GrantCouncil to Accept/Reject an application.
 02) Achiever provide evidences to Apply for reward by fullfilling a quest
-03) QuestMaster review the evidences and can chose to Accept/Reject the application.
+03) GrantCouncil review the evidences and can chose to Accept/Reject an application
 04) On Acceptance, the reward is transfer to the Achiever immediately with no recourse
-05) On Rejection, QuestMaster must state what predefined condition was not meet with evidence.
+05) On Rejection, GrantCouncil must select what predefined condition was not meet with evidence.
 03) Evidence must be of digital format, e.g. phote, video, scan of paper documents, files, etc.
-
-06) Achiever can reupload multiple evidences and request further review form QuestMaster
-07) if QuestMaster reject but Achiever request further review but GrantCouncil, 
-06) After a predefined pending period for which questMaster did not response to a work presented with evidence, GrantCouncil can take over the decision.
-07) GrantCouncil is randomly chosen accounts, can be of role of questMaster or Achiever, they will vote for acceptence/rejection based on evidnces provided.
-08) For each successful grant of reward, both QuestMaster and Achiever credit score will go up
-09) If GrantCouncil reversed the decision of QuestMaster, QuestMaster credit score will go down
-10) If GrantCouncil reversed the request of Achiever, Achiever credit score will go down
+06) Achiever can add/delete/edit multiple evidences and request further review form QuestMaster/GrantDelegate
+07) In case GrantCouncil reject but Achiever believe all conditions are met, s/he can request further review buy the Court.
+06) After a predefined pending period for which GrantCouncil did not response to an application, the Court can take over the decision.
+07) The Court is randomly chosen accounts, they will vote for acceptence/rejection based on evidences provided.
+08) For each successful grant of reward, QuestMaster/GrantCouncil and Achiever credit score will go up
+09) If the court reversed the decision of QuestMaster/GrantCouncil, QuestMaster credit score will go down
+10) If the court reversed the request of Achiever, Achiever credit score will go down
 
 Proof of Achievements
 allow exchange of achievement and efforts by token
