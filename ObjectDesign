@@ -1,5 +1,37 @@
-In the simplest form, there are 
-  Main roles: QuestMaster, Achiever, GrantCouncil
-  Minor roles: Plaintiff, Defendant, Jury
-  Main items: QuestToken, Quest, Reward, Conditions, Evidence, GrantDecision
+In the simplest form
+
+  QuestMaster
+  {
+  properties
+  
+  methods
+  }
+  
+  Achiever 
+  GrantCouncil
+  Jury
+  Plaintiff
+  Defendant
+  
+  QuestToken, 
+  
+  Quest
+  {aCondition[], 
+   aConditionTest[],
+   aFullfilRequirement
+   aFullFilTest}
+  
+  Reward, 
+  
+  Evidence
+  {
+    aFile
+    aConditionTest[]
+    aconditionValue[]
+  }
+  
+  Evidence[]
+  
+  GrantDecision
+  
   Minor items: SueFee, CourtCase, CourtCaseDecision
